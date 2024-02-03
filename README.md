@@ -14,17 +14,17 @@ The project leverages transfer learning on YOLO (You Only Look Once) to achieve 
 A Python algorithm was developed to monitor and analyze child movements. This algorithm calculates distances between the child and potentially unsafe objects, triggering alarms when the child approaches a hazardous item within a predefined threshold. This ensures a proactive response to potential safety risks.
 
 # Usage
-## To use the Child Safety System, follow these steps:
-## 1. Downlaod Model In your PC
-## 2. Download testing videos 
-## 3. Downlaod Python (ipynb) file to your pc (file named Run_Model.ipynb)
-## 4. Add path of model (Child_Safety_Model.pt) and testing videos to the Rum_Model.ipynb file.
-## 5. now run this file
+ To use the Child Safety System, follow these steps:
+  1. Downlaod Model In your PC
+  2. Download testing videos 
+  3. Downlaod Python (ipynb) file to your pc (file named Run_Model.ipynb)
+  4. Add path of model (Child_Safety_Model.pt) and testing videos to the Rum_Model.ipynb file.
+  5. now run this file
 
 # Requirements 
-## 1. Jupyter Notebook
-## 2. ultralytics (pip install ultralytics)
-## 3.
+  1. Jupyter Notebook
+  2. ultralytics (pip install ultralytics)
+  3. pip install opencv-python
 
 
 ## If any one want dataset (contact me on whatsapp +92 342 0506599 Salman Ahmed)
