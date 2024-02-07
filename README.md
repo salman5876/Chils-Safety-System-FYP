@@ -1,5 +1,5 @@
 # Chils-Safety-System-FYP
-This repository contains the code and documentation for an advanced AI-based Child Safety System developed as a final year project. The system is designed to proactively identify and alert parents to unsafe activities involving their children. Below is a detailed overview of the key components of the project.
+This repository contains the code and documentation for an advanced Artificial Intelligence based Child Safety System developed as a final year project. The system is designed to proactively identify and alert parents to unsafe activities involving their children. Below is a detailed overview of the key components of the project.
 
 # 1. Dataset Creation
 I created a dataset consisting of 13 distinct classes, including items such as child, scissors, knife, toys, fork, balls, heater, electric switchboard, spoon, among others. The dataset was created through a combination of data collection from Kaggle and manual acquisition from Google, including the capture of relevant child activity videos.
@@ -23,8 +23,9 @@ A Python algorithm was developed to monitor and analyze child movements. This al
 
 # Requirements 
   1. Jupyter Notebook
-  2. ultralytics (pip install ultralytics)
-  3. pip install opencv-python
+  2. Python
+  3. ultralytics (pip install ultralytics)
+  4. pip install opencv-python
 
 
 ## If any one want dataset (contact me on whatsapp +92 342 0506599 Salman Ahmed)
